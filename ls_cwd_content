@@ -1,0 +1,13 @@
+total 48
+drwxr-xr-x 6 root root   216 Sep  5 08:02 .
+drwx------ 1 root root  4096 Sep  5 08:02 ..
+drwxr-xr-x 2 root root  4096 Sep  2 15:11 0x00-shell_basics
+drwxr-xr-x 2 root root  4096 Sep  5 05:59 0x01-shell_permissions
+drwxr-xr-x 2 root root   277 Sep  5 07:59 0x02-shell_redirections
+-rw------- 1 root root 12288 Sep  5 06:07 .2-hellofile.swp
+-rw-r--r-- 1 root root    39 Sep  5 06:57 3-twofiles
+-rw-r--r-- 1 root root    36 Sep  5 08:02 8-cwd_state
+drwxr-xr-x 8 root root   166 Sep  5 08:00 .git
+-rw-r--r-- 1 root root     0 Sep  5 08:02 ls_cwd_content
+-rw-r--r-- 1 root root    30 Sep  2 11:34 README.md
+-rw------- 1 root root 12288 Sep  5 07:21 .swp
